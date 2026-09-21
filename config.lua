@@ -241,6 +241,7 @@ Config.FuelConsumptionPerFuelType = {
     plus = 0.9,
     premium = 0.8,
     diesel = 1.0,
+    electric = 1.0,
 }
 
 -- Fuel tank sizes (in liters) per vehicle class and specific vehicles
